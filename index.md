@@ -6,3 +6,13 @@
 ###### Header 6
 
 ![Github copilot](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var name = "Prabhu Deva";
+let age = GetAgeByUserName(name);
+```
+
+``` csharp
+string name = "Prabhu Deva";
+int age = GetAgeByUserName(name);
+```
