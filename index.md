@@ -1,2 +1,7 @@
-<h1>Sample Header</h1> 
-<h6>Movies</h6>
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
